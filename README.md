@@ -1,2 +1,3 @@
 # lotus
-aeroponic food production
+Aeroponic food production platform
+

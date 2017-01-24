@@ -1,3 +1,3 @@
 # Lotus Foods
-Aeroponic food production platform
+Aeroponic food production infrastructure
 

@@ -1,0 +1,45 @@
+.nodeContent {
+	background-color: white;
+	border-style: solid;
+	border-color:lightgrey;
+    border-width: 1px;
+	border-radius: 5px;
+	padding-bottom:20px;
+	
+	
+	
+}
+
+.tabContent {
+	position:relative;
+	background-color:white;
+	width:100%;
+	border-style: solid;
+	border-color:lightgrey;
+    border-width: 0px 1px 1px 1px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	padding:10px;
+	padding-bottom: 0px;
+	
+}
+
+.nodePanel {
+	position:relative;
+	width:100%;
+	background-color: white;
+	border-style: solid;
+	border-color:lightgrey;
+    border-width: 1px;
+	border-radius: 5px;
+	padding-left:20px;
+	padding-right:20px;
+	padding-bottom: 15px;
+	margin-bottom:10px;
+		
+}
+
+.toggle:hover {
+	
+	background-color: lightgrey;
+}

@@ -1,0 +1,163 @@
+var nodesObj = {
+  "hub": "mansfield",
+  "hubNum": 1,
+  "nodes": [
+    {
+      "number": 1,
+      "name": "Node 001",
+      "plant": "Lettuce",
+      "daysElapsed": 0,
+      "initialized": false,
+      "dbName": "node000data",
+      "temp": {
+        "first": [
+          70,
+          14
+        ],
+        "second": [
+          82,
+          40
+        ],
+        "third": [
+          62,
+          13
+        ]
+      },
+      "hum": {
+        "first": [
+          40,
+          14
+        ],
+        "second": [
+          50,
+          40
+        ],
+        "third": [
+          60,
+          13
+        ]
+      }
+    },
+    
+    {
+      "number": 2,
+      "name": "Node 002",
+      "plant": "Spinach",
+      "daysElapsed": 40,
+      "initialized": true,
+      "dbName": "node001data",
+      "temp": {
+        "first": [
+          70,
+          14
+        ],
+        "second": [
+          82,
+          40
+        ],
+        "third": [
+          62,
+          13
+        ]
+      },
+      "hum": {
+        "first": [
+          40,
+          14
+        ],
+        "second": [
+          50,
+          40
+        ],
+        "third": [
+          60,
+          13
+        ]
+      }
+    },
+    
+    {
+      "number": 3,
+      "name": "Node 003",
+      "plant": "Spinach",
+      "daysElapsed": 0,
+      "initialized": false,
+      "dbName": "node003data",
+      "temp": {
+        "first": [
+          70,
+          14
+        ],
+        "second": [
+          82,
+          40
+        ],
+        "third": [
+          62,
+          13
+        ]
+      },
+      "hum": {
+        "first": [
+          40,
+          14
+        ],
+        "second": [
+          50,
+          40
+        ],
+        "third": [
+          60,
+          13
+        ]
+      }
+    }
+
+    
+    
+    
+    
+    
+  ]
+}
+
+/*
+var nodes = 
+  '{"hub": "mansfield",' +
+  '"hubNum": 1,'+
+  '"nodes": ['+
+    '{'+
+      '"number": 1,'+
+      '"name": "Node 001",'+
+      '"plant": "Lettuce",'+
+      '"daysElapsed": 0,'+
+      '"initialized": false,'+
+      '"dbName": "node000data",'+
+      '"temp": {'+
+        '"1": ['+
+          '"70",'+
+          '"14"'+
+        '],'+
+        '"2": ['+
+          '"82",'+
+          '"40"'+
+        '],'+
+        '"3": ['+
+          '"62",'+
+          '"13"'+
+        ']'+
+      '},'+
+      '"hum": {'+
+        '"1": ['+
+          '"40",'+
+          '"14"'+
+        '],'+
+        '"2": ['+
+          '"50",'+
+          '"40"'+
+        '],'+
+        '"3": ['+
+          '"60",'+
+          '"13"'+
+        ']}}]}'
+*/
